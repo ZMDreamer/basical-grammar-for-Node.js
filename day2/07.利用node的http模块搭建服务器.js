@@ -24,4 +24,4 @@ var server=http.createServer(function (req, res){
   
   //监听——等着
   //端口-数字
-  server.listen(8080);
+  //server.listen(8080);
